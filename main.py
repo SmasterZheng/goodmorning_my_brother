@@ -20,7 +20,7 @@ wea_appid = os.environ["WEA_APPID"]
 #天气平台的app_secret
 wea_appsecret = os.environ["WEA_APPSECRET"]
 # 用户ID
-user_id = os.environ["USER_ID"]
+user_ids = os.environ["USER_ID"]
 # 模板ID
 template_id = os.environ["TEMPLATE_ID"]
 
